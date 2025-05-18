@@ -31,7 +31,7 @@ export default function Banner() {
             variants={fadeUp}
             className="mb-4 block text-4xl sm:text-6xl"
           >
-            I'm <span className="italic font-light text-5xl sm:text-6xl">Sunny,</span>
+            Im <span className="italic font-light text-5xl sm:text-6xl">Sunny,</span>
           </motion.span>
           <motion.span variants={fadeUp}>
             <span className="inline-flex items-center gap-2 justify-center">
@@ -64,7 +64,7 @@ export default function Banner() {
           {...fadeUp}
           transition={{ duration: 0.6, delay: 0.6 }}
         >
-          I’ve developed a wide range of websites, including portfolios,
+          Ive developed a wide range of websites, including portfolios,
           e-commerce stores, and web apps, helping brands deliver smooth and
           engaging online experiences.
         </motion.p>
