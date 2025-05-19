@@ -9,7 +9,7 @@ const fadeUp = {
 };
 
 export default function Banner() {
-  const phoneNumber = "8850192746"; // Replace with your WhatsApp number (with country code, no + or spaces)
+  const phoneNumber = "918850192746"; // Replace with your WhatsApp number (with country code, no + or spaces)
   const message = encodeURIComponent("Hi, I'm interested in joining!");
 
   const handleWhatsAppClick = () => {
